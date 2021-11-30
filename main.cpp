@@ -102,7 +102,7 @@ int main()	{
 						break;
 					}
 				}
-				if(t==1)
+				if(t==i)
 				cout<<"\nThis Book is Not in Stock";
 				
 				break;
